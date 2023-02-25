@@ -5,4 +5,3 @@ The goal is to improve the language by making it accessible to anyone who wants 
 
 Goals:
 - Collect Exhaustive Somali word list <span style="color: green"><font size = "5"> ✔ </font></span>
--
