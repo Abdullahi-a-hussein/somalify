@@ -1,6 +1,6 @@
 
 import time
-alphabet = "efghijklmnoqrstuwxy"
+alphabet = "abcdefghijklmnoqrstuwxy"
 def shrink(file, char):
     # Reads the file and only extract content that start withe the desired letter.
     with open(file, "r") as raw_file:
